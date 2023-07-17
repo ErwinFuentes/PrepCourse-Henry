@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Test repository of module 2 from PrepCourse Henry
+This is a test to prove how to work from a repository in GitHub and Git.
